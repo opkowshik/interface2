@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-03-18T05:32:11.066Z",
+    "question": "Who are you?",
+    "answer": "I am Synapse Stack AI, a mock assistant created for this interface demonstration."
+  },
+  {
+    "timestamp": "2026-03-18T05:36:32.063Z",
+    "question": "hello",
+    "answer": "Hello! I am Synapse Stack AI. How can I help you today?"
+  },
+  {
+    "timestamp": "2026-03-18T05:37:12.699Z",
+    "question": "what is cloud data",
+    "answer": "This is a mock response to your question: \"what is cloud data\". I am currently running without a real AI backend."
+  },
+  {
+    "timestamp": "2026-03-18T05:37:27.549Z",
+    "question": "what is java",
+    "answer": "This is a mock response to your question: \"what is java\". I am currently running without a real AI backend."
+  },
+  {
+    "timestamp": "2026-03-18T05:39:52.049Z",
+    "question": "hi",
+    "answer": "Hello! I am Synapse Stack AI. How can I help you today?"
+  },
+  {
+    "timestamp": "2026-03-18T05:40:04.475Z",
+    "question": "i love you",
+    "answer": "This is a mock response to your question: \"i love you\". I am currently running without a real AI backend."
+  }
+]
